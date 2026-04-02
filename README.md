@@ -16,13 +16,6 @@ The system supports prediction, model retraining (both locally via Colab and on 
 
 ---
 
-## 🚀 Live App
-
-> 🌐 **[App URL →](https://YOUR_APP_URL_HERE)**  
-> 📡 **[API Docs (Swagger) →](https://YOUR_API_URL_HERE/docs)**
-
----
-
 ## 📁 Directory Structure
 
 ```
@@ -76,7 +69,7 @@ MLPipeline/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USER/YOUR_REPO.git
+[git clone https://github.com/YOUR_USER/YOUR_REPO.git](https://github.com/NtwariMikeCK/Machine-Learning-Pipeline.git)
 cd MLPipeline
 ```
 
@@ -160,17 +153,6 @@ Results — latency vs. Docker container count:
 
 ---
 
-## 📈 Model Performance (Example)
-
-| Metric    | Value  |
-|-----------|--------|
-| Accuracy  | 94.2%  |
-| Precision | 93.8%  |
-| Recall    | 94.1%  |
-| F1 Score  | 93.9%  |
-
----
-
 ## 🔑 API Endpoints
 
 | Method | Endpoint            | Description                     |
@@ -187,8 +169,5 @@ Results — latency vs. Docker container count:
 
 ## 🧑‍💻 Author
 
-**Ntwari Mike Chris Kevin** · African Leadership University · BSE  
+**Ntwari Mike Chris Kevin** · African Leadership University
 Module: Machine Learning Cycle (MLOps)
-
-Video Link
-```https://youtu.be/CMxsrcWOiTk```
